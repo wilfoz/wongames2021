@@ -24,9 +24,7 @@ export const Content = styled.div`
   `}
 `
 
-export const Block = styled.div`
-  ${({ theme }) => css``}
-`
+export const Block = styled.div``
 
 export const Label = styled.h3`
   ${({ theme }) => css`
